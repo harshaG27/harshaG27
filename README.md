@@ -34,7 +34,7 @@ I'm diving into the world of SAP ABAP and backend development, eager to build ef
 ---
 
 ## How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harsha-varthini-g)  
 [![Email](https://img.shields.io/badge/Email-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
